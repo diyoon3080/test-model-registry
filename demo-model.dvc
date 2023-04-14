@@ -1,0 +1,4 @@
+outs:
+- md5: c95cc5da4d6c6d0b63991c88d43459fe
+  size: 27599
+  path: demo-model
